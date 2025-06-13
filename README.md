@@ -1,3 +1,3 @@
 # apnacollege-demo
-this my first repository
+this my first repository.
 author diksha sutar
